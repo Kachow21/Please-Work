@@ -1,0 +1,33 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "ToIC",
+				"abbreviation": "ToIC",
+				"full": "Table of Irreversible Consequences",
+				"authors": [
+					"Kachow"
+				],
+				"convertedBy": [
+					"Kachow"
+				],
+				"url": "https://github.com/TheGiddyLimit/homebrew",
+				"version": "1.0",
+				"targetSchema": "1.0.0"
+			}
+		],
+		"dateAdded": 1578351859
+	},
+	"item": [
+		{
+			"name": "Bag of Moneyholding",
+			"wondrous": true,
+			"tier": "Minor",
+			"rarity": "Common",
+			"source": "cmi",
+			"entries": [
+				"This small leather pouch can hold up to five times the coins that a similarly sized pouch would be able to contain. If anything other than currency is put into it, the pouch will not show any supernatural properties. If the pouch is cut or pierced, it will lose its magic and whatever excess coins it is holding will spill out."
+			]
+		}
+	]
+}
